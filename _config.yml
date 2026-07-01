@@ -1,0 +1,21 @@
+title: 具身智能学习笔记
+description: 学习具身智能的笔记与资料整理
+lang: zh-CN
+url: "https://shareghan.github.io"
+baseurl: "/Embodied-Intelligence-Study-Notes"
+
+theme: minima
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
